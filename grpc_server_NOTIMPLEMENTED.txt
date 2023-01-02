@@ -1,0 +1,163 @@
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 308, in subscribeStatus
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 356, in heartbeat
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 356, in heartbeat
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 308, in subscribeStatus
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 356, in heartbeat
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 356, in heartbeat
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 308, in subscribeStatus
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 356, in heartbeat
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 356, in heartbeat
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 356, in heartbeat
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 308, in subscribeStatus
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 356, in heartbeat
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 356, in heartbeat
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 308, in subscribeStatus
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 356, in heartbeat
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 356, in heartbeat
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 308, in subscribeStatus
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 356, in heartbeat
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 356, in heartbeat
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 356, in heartbeat
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+ERROR:grpc._server:Exception calling application: Method not implemented!
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 443, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+  File "/home/arjun/Documents/k91_django/k91/grpc_modules/cyberdog_app_pb2_grpc.py", line 308, in subscribeStatus
+    raise NotImplementedError('Method not implemented!')
+NotImplementedError: Method not implemented!
+^CTraceback (most recent call last):
+  File "dog_server_standalone.py", line 139, in <module>
+    serve() # if gRPC available use this
+  File "dog_server_standalone.py", line 132, in serve
+    server.wait_for_termination()
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_server.py", line 985, in wait_for_termination
+    return _common.wait(self._state.termination_event.wait,
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_common.py", line 141, in wait
+    _wait_once(wait_fn, MAXIMUM_WAIT_TIMEOUT, spin_cb)
+  File "/usr/local/lib/python3.8/dist-packages/grpc/_common.py", line 106, in _wait_once
+    wait_fn(timeout=timeout)
+  File "/usr/lib/python3.8/threading.py", line 558, in wait
+    signaled = self._cond.wait(timeout)
+  File "/usr/lib/python3.8/threading.py", line 306, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
